@@ -1,0 +1,31 @@
+.formulario{
+    text-align: center;
+    justify-content: center;
+    color: white;
+    font-size: 40px;
+    font-family: 'Lobster', cursive;
+}
+h1{
+    text-align: center;
+    justify-content: center;
+    color: white;
+    font-family: 'Lobster', cursive;
+    font-size: 60px;
+}
+body{
+    background-image: url(https://i.pinimg.com/originals/1d/90/03/1d9003898f5723081867134deca59a3f.gif);
+}
+.mitad2{
+    text-align: center;
+    justify-content: center;
+    color: white;
+    font-size: 15px;
+    font-family: 'Lobster', cursive;
+}
+.mitad1{
+    text-align: center;
+    justify-content: center;
+    color: white;
+    font-size: 15px;
+    font-family: 'Lobster', cursive;
+}
